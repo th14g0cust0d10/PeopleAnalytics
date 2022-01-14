@@ -11,7 +11,7 @@
 
 Dados brutos por si só não  fornecem *insights* úteis, seria como olhar para uma grande planilha cheia de números e palavras. Porém depois de organizados, comparados e analisados, esses dados brutos fornecem *insights* de expressiva relevância. 
 
-**Objetivo:** Neste projeto iremos utilizar a linguagem **Python**, para avaliar quais quais fatores mais causam atritos no ambiente de trabalho e assim criar um modelo de aprendizagem de máquina que possa prever se um funcionário pode ou deixar a empresa, e qual a probabilidade de isso ocorrer.
+**Objetivo:** Neste projeto iremos utilizar a linguagem **Python**, para avaliar quais quais fatores mais causam atritos no ambiente de trabalho e assim criar um modelo de aprendizagem de máquina que possa prever se um funcionário pode deixar a empresa, e qual a probabilidade de isso ocorrer.
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
