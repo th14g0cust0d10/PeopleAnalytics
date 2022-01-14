@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# HR Analytics
+##### Quais fatores mais causam atritos no ambiente de trabalho
+*Portfólio Thiago Gonçalves Custódio*
+![](people_analytics.png)
 
-You can use the [editor on GitHub](https://github.com/th14g0cust0d10/PeopleAnalytics/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Descrição geral do problema
 
-### Markdown
+**Definição:** HR analytics é o processo de coleta e análise de dados de Recursos Humanos (RH) para melhorar o desempenho da força de trabalho de uma organização. O processo também pode ser chamado de **talent analytics**, **people analytics** ou até **workforce analytics**. Esse método de análise de dados pega dados que são coletados rotineiramente pelo RH e os correlaciona com os objetivos de RH e organizacionais. Isso fornece evidências medidas de como as iniciativas de RH estão contribuindo para as metas e estratégias da organização.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dados brutos por si só não  fornecem *insights* úteis, seria como olhar para uma grande planilha cheia de números e palavras. Porém depois de organizados, comparados e analisados, esses dados brutos fornecem *insights* de expressiva relevância. 
 
-```markdown
-Syntax highlighted code block
+**Objetivo:** Neste projeto iremos utilizar a linguagem **Python**, para avaliar quais quais fatores mais causam atritos no ambiente de trabalho e assim criar um modelo de aprendizagem de máquina que possa prever se um funcionário pode ou deixar a empresa, e qual a probabilidade de isso ocorrer.
 
-# Header 1
-## Header 2
-### Header 3
+Para visualizar a análise completa feita neste projeto, acesse este link:
 
-- Bulleted
-- List
+* https://th14g0cust0d10.github.io/PeopleAnalytics/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/th14g0cust0d10/PeopleAnalytics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
